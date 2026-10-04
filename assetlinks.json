@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sarojk.calculator",
+        "sha256_cert_fingerprints": ["D8:46:0A:5F:C9:80:6C:B4:C0:AC:92:2C:A9:A5:08:F0:14:A4:D2:45:43:C3:ED:89:C1:C9:4E:BF:DD:3F:2F:56"]
+      }
+    }]
